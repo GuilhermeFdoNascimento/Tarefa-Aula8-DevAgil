@@ -15,7 +15,8 @@
 
 ###  Criar a página de login para que os usuário consigam logar site
 
-Prioriedade: 300\
+Prioriedade: 300
+
 R: 500\
 I: 3\
 C: 100%\
@@ -23,7 +24,8 @@ E: 5 Story Points
 
 ###  Implementar Funcionalidade de Agendamento de consultas que mostre horário e sala onde a consulta será realizada
 
-Prioriedade: 150\
+Prioriedade: 150
+
 R: 400\
 I: 3\
 C: 100%\
@@ -31,7 +33,8 @@ E: 8 Story Points
 
 ###  Implementar sistemas de segurança de dados no site
 
-Prioriedade: 33\
+Prioriedade: 33
+
 R: 500\
 I: 1\
 C: 80%\
